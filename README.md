@@ -1,7 +1,3 @@
-![](synthwave.png)
-*Credits*: Nathanael DEBANNE
-
-
 <div align="center">
 <a href="https://github.com/TommasoBarberis/github-stats"><img align="center" src="https://github.com/TommasoBarberis/github-stats/blob/master/generated/overview.svg" /></a> 
 <a href="https://github.com/TommasoBarberis/github-stats"><img align="center" src="https://github.com/TommasoBarberis/github-stats/blob/master/generated/languages.svg" /></a>
@@ -27,3 +23,7 @@
 ![markdown](https://img.shields.io/badge/Markdown-000000?style=for-the-badge&logo=markdown&logoColor=white)
 ![LaTeX](https://img.shields.io/badge/latex-%23008080.svg?style=for-the-badge&logo=latex&logoColor=white)
 ![Shell Script](https://img.shields.io/badge/shell_script-%23121011.svg?style=for-the-badge&logo=gnu-bash&logoColor=white)
+
+
+![](synthwave.png)
+*Credits*: Nathanael DEBANNE
